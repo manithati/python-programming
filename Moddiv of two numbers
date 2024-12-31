@@ -1,0 +1,8 @@
+# python program to moddiv of two numbers
+
+a=10
+b=2
+print("Moddiv of two numbers =",a%b)
+
+output:
+Moddiv of two numbers = 0
