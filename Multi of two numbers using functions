@@ -1,0 +1,10 @@
+# python program for multi of two numbers using functions
+
+def my_function():
+    print("Multi of two numbers =",a*b)
+a=10
+b=2
+my_function()
+
+output:
+Multi of two numbers = 20
