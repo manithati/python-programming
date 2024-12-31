@@ -1,0 +1,8 @@
+# python program to sub of two numbers
+
+a=10
+b=2
+print("Sub of two numbers =",a-b)
+
+output:
+Sub of two numbers = 8
